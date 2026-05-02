@@ -27,3 +27,7 @@ if operacao in ['+', '-', '*', '/', '**']:
         print(f"O resultado de {num1} ** {num2} é: {resultado}")
 else:
     print("Operação inválida.")
+
+print("=== Fim da calculadora ===")
+print("enter para sair...")
+input()
