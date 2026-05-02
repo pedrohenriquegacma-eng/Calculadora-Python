@@ -9,6 +9,6 @@ Minha primeira calculadora em Python, feita aos 15 anos.
 
 ** Como rodar na sua máquina:**
 
-1 - tenha Python instalado.
-2 - baixe o arquivo `calculadora.py´.
-3 - rode no terminal: python calculadora.py.
+- tenha Python instalado.
+- baixe o arquivo `calculadora.py´.
+- rode no terminal: python calculadora.py.
